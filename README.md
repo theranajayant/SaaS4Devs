@@ -1,4 +1,9 @@
 <div align=center>
+ Many poor marketing strategies
+ Only applies to micro saas not for established businesses
+ They don't know to compete 
+ They are scared of big players
+ Talk before build, talk while build is adaptable
 <a href="https://saas4devs.tech?ref=github"><div align="center"><img width=900 src=media/now_online.png alt="now online"/></div></a>
 </div>
  <div align=center><a href="https://github.com/nicolas-racchi/SaaS4Devs" alt="stars"><img src="https://img.shields.io/github/stars/nicolas-racchi/SaaS4Devs?label=Stars&logoColor=informational&style=social"></img></a>
